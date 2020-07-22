@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="search_label">Pengguna Github</string>
+    <string name="activity_favorite">Pengguna Favorit</string>
+    <string name="detail_label">Detail Pengguna</string>
+    <string name="description_avatar">Deskripsi Avatar</string>
+    <string name="menu_language_settings">Pengaturan Bahasa</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="search_hint">Username</string>
+    <string name="txt_repository">Repositori</string>
+    <string name="txt_follower">Pengikut</string>
+    <string name="txt_following">Mengikuti</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+
+    // Pengingat Harian
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="on">Aktif</string>
+    <string name="off">Mati</string>
+    <string name="setting">Pengaturan</string>
+
+    // Stack Widget
+    <string name="appwidget_text">GITHUB USER APP</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+</resources>
